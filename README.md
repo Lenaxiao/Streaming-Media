@@ -6,5 +6,5 @@
 3. React Portal
 4. Navigation through React Router
 5. Middleware in Redux (redux-thunk)
-6. add streaming video
+6. Add streaming video ([FLV player](https://github.com/Bilibili/flv.js/); [OBS to provide streaming source](https://obsproject.com/))
 7. Handle fetching, creating, updating (GET, POST, PUT, PATCH)
