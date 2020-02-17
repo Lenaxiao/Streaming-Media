@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "this is a good test",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "This is another test.",
+      "id": 2
+    },
+    {
+      "title": "Update a stream",
+      "description": "Use PATCH instead of PUT",
+      "userId": "103961263310997809618",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page!!!",
+      "userId": "103961263310997809618",
+      "id": 5
+    }
+  ]
+}
